@@ -50,6 +50,7 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="GotoRelated" />
+  <action id="GotoTest" />
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -66,6 +67,9 @@
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Replace" />
   <action id="Run" />
   <action id="SearchEverywhere">
@@ -79,6 +83,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
