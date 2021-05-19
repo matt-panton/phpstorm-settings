@@ -7,6 +7,11 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Submit" />
+  <action id="CopyPathFromRepositoryRootProvider">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
