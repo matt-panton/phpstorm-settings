@@ -14,9 +14,4 @@
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
   </codeStyleSettings>
-  <codeStyleSettings language="yaml">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
