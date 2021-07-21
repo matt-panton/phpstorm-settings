@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.json</mask>
-    <mask>*.yaml</mask>
     <mask>*.yml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
